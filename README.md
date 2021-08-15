@@ -5,7 +5,7 @@ This project is tested over lot of ml models like catboost, xgboost, random fore
 Out of these models catboost performed very well giving an AUC score around and ROC score of 89 far better than others.
 Here due to my system compatibility is very low. So I havent done hyperparameter tuning. But it is highly recommended to do it if possible.
 
-# Website Link: ["https://rainy-brain.herokuapp.com/"](https://rainy-brain.herokuapp.com/)
+# Website Link: ["https://app-rain-prediction.herokuapp.com/"](https://app-rain-prediction.herokuapp.com/)
 
 # Testing values
 
